@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi, I'm Angel Reaño 👋
 
-<!--
-**Angel52781/Angel52781** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an Industrial and Systems Engineering student interested in Artificial Intelligence, automation, data analysis and software development.
 
-Here are some ideas to get you started:
+I use AI tools, LLMs and automation platforms to build prototypes, improve workflows and create practical digital solutions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Current interests
+- Artificial Intelligence and AI-assisted development
+- Automation workflows with n8n and Apify
+- Data analysis with Excel, Power BI, Tableau and SQL
+- Software projects for business operations
+- Process improvement and productivity
+
+## Featured projects
+- PropSys: property management system for buildings and condominiums.
+- VetERP: ERP-style system for veterinary operations.
+- Web Templates: frontend templates and landing pages.
+
+## Tools
+Python · Google Colab · Power BI · SQL · TypeScript · Next.js · n8n · Apify · GitHub · LLMs
