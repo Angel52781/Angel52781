@@ -18,3 +18,6 @@ I use AI tools, LLMs and automation platforms to build prototypes, improve workf
 
 ## Tools
 Python · Google Colab · Power BI · SQL · TypeScript · Next.js · n8n · Apify · GitHub · LLMs
+
+## Reproducible technical proof
+- [Webhook / ERP work-order reliability (synthetic Node.js demo)](proofs/synthetic-workorder-reliability/README.md) — input validation, immutable batch fingerprints, timeout reconciliation and concurrency tests; **local simulation only**, not a certified SOS Inventory or Make integration.
