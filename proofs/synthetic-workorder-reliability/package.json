@@ -1,0 +1,24 @@
+{
+  "name": "sos-work-order-integration-proof",
+  "version": "1.0.0",
+  "description": "Synthetic SOS Inventory Work Order Integration Adapter Proof-of-Concept",
+  "type": "module",
+  "scripts": {
+    "test": "node --test test/adapter.test.mjs",
+    "demo": "node demo.mjs",
+    "start": "node demo.mjs"
+  },
+  "keywords": [
+    "sos-inventory",
+    "work-order",
+    "integration",
+    "make-com",
+    "idempotency",
+    "reliability"
+  ],
+  "author": "Orbital Frameworks",
+  "license": "UNLICENSED",
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}
