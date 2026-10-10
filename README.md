@@ -21,3 +21,6 @@ Python · Google Colab · Power BI · SQL · TypeScript · Next.js · n8n · Api
 
 ## Reproducible technical proof
 - [Webhook / ERP work-order reliability (synthetic Node.js demo)](proofs/synthetic-workorder-reliability/README.md) — input validation, immutable batch fingerprints, timeout reconciliation and concurrency tests; **local simulation only**, not a certified SOS Inventory or Make integration.
+
+## Available for paid technical work
+- [Webhook & API reliability review — USD 149 fixed scope](services/webhook-reliability-review.md) — focused diagnosis and test plan for one integration, with transparent scope and a reproducible technical proof.
